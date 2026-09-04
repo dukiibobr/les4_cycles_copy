@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="les4_cycles_copy/les4_cycles_copy.vcxproj" />
+  <Project Path="les4_cycles_copy2/les4_cycles_copy2.vcxproj" />
+</Solution>
